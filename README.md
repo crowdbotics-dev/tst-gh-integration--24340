@@ -33,7 +33,8 @@ This is a repository for a web application developed with Django, built with [Cr
 3. **Forgot Password**
 4. [Bootstrap4](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 5. Toast Notification
-6. Inline content editor in homepage
+6. test
+7. Inline content editor in homepage
 
 # Getting Started: Backend
 
